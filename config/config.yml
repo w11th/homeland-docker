@@ -32,11 +32,7 @@ site_configs: &site_configs
     提示1
     提示2
   newbie_notices: >
-    <p>为提高社区质量，防止新人一来就发帖提问，新用户需要达到下面条件才可发帖：</p>
-    <ol style="color:#ad2b2d;">
-      <li>注册时间超过一个月；</li>
-    </ol>
-    <p>请在新人阶段多浏览，看看其他老用户是如何在社区里面分享与解决问题的。</p>
+    <p>已经移除发帖时间限制，新用户可以立即发帖。</p>
   reject_newbie_reply_in_the_evening: false
   apns_pem: ""
   blacklist_ips: ""
