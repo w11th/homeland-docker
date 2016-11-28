@@ -2,7 +2,7 @@
 FROM homeland/base:0.2.0
 
 ENV RAILS_ENV 'production'
-ENV HOMELAND_VERSION '1.0'
+ENV HOMELAND_VERSION '1.1'
 
 MAINTAINER w11th "https://github.com/w11th"
 
